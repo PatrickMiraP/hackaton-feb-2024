@@ -108,5 +108,5 @@ topics:
     configuration:
       partitions: 2
       replicationFactor: 2
-      retentionInMinutes: 10080
+      retentionInMinutes: 10740
       retentionInBytes: 52428800
